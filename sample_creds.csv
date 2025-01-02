@@ -1,0 +1,4 @@
+siteurl,username,password
+demo.erpnext.example.com,administrator,dummy_password123
+test.erpnext.example.com,admin,sample_password456
+staging.erpnext.example.com,Administrator,test_password789
