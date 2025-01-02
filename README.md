@@ -76,6 +76,3 @@ The script will create a new file `creds_updated.csv` containing the generated A
 3. Commit your changes
 4. Push to the branch
 5. Create a new Pull Request
-
-## License
-[Your chosen license]
